@@ -1434,7 +1434,7 @@ yyreturn:
 
 
 void yyerror(char *s) {
-    printf("Erro");
+    printf("Erro.");
 }
 
 int main(void) {
