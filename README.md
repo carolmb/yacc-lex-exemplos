@@ -3,5 +3,6 @@ Exemplos de uso do yacc + lex para a disciplina de Linguagens de programação e
 
 
 ## Pacotes necessários
-apt install flex
-apt install bison
+```apt install flex```
+
+```apt install bison```
